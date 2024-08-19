@@ -1,0 +1,27 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  min-height: 100vh;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.container {
+  width: 1200px;
+  margin: 20% auto;
+  text-align: center;
+
+  font-size: 40px;
+}
+
+.container span {
+  font-size: 50px;
+  color: blueviolet;
+}
